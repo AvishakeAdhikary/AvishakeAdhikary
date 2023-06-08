@@ -47,7 +47,7 @@
   <a href="https://dev.to/avishakeadhikary" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="avishakeadhikary" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/avishake007" target="blank">
+  <a href="https://twitter.com/Avhishek007" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avishake007" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/avishakeadhikary" target="blank">
