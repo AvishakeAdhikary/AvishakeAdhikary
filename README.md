@@ -12,7 +12,16 @@
   <a href="https://twitter.com/avishake007" target="blank">
     <img src="https://img.shields.io/twitter/follow/avishake007?logo=twitter&style=for-the-badge" alt="avishake007" />
   </a>
-</p> - 🔭 I’m currently working on [Text-To-Image-Generator](https://github.com/AvishakeAdhikary/Text-To-Image-Generator) - 🌱 I’m currently learning **Large Language Models & Integration of LLMs** - 👯 I’m looking to collaborate on [Python-Code-Generator](https://github.com/AvishakeAdhikary/Python-Code-Generator) - 👨‍💻 All of my projects are available at [https://hj8d5.csb.app/](https://hj8d5.csb.app/) - 📝 I regularly write articles on [https://avhishek.blogspot.com/](https://avhishek.blogspot.com/) - ⚡ Fun fact **Everyone I know is either getting married or pregnant. I'm just getting more awesome.** <h3 align="left">Connect with me:</h3>
+</p> 
+
+- 🔭 I’m currently working on [Text-To-Image-Generator](https://github.com/AvishakeAdhikary/Text-To-Image-Generator) 
+- 🌱 I’m currently learning **Large Language Models & Integration of LLMs** 
+- 👯 I’m looking to collaborate on [Python-Code-Generator](https://github.com/AvishakeAdhikary/Python-Code-Generator) 
+- 👨‍💻 All of my projects are available at [https://hj8d5.csb.app/](https://hj8d5.csb.app/) 
+- 📝 I regularly write articles on [https://avhishek.blogspot.com/](https://avhishek.blogspot.com/) 
+- ⚡ Fun fact **Everyone I know is either getting married or pregnant. I'm just getting more awesome.** 
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://codepen.io/avishakeadhikary" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="avishakeadhikary" height="30" width="40" />
