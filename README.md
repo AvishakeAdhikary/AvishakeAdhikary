@@ -1,18 +1,22 @@
 <h1 align="center">Hi 👋, I'm Avishake Adhikary</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
-<p align="left">
+<p align="center">
+  <img alt="coding" width="400" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif">
+</p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=avishakeadhikary&label=Profile%20views&color=0e75b6&style=flat" alt="avishakeadhikary" />
 </p>
-<p align="left">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=avishakeadhikary" alt="avishakeadhikary"/>
   </a>
 </p>
-<p align="left">
+<p align="center">
   <a href="https://twitter.com/avishake007" target="blank">
     <img src="https://img.shields.io/twitter/follow/avishake007?logo=twitter&style=for-the-badge" alt="avishake007" />
   </a>
 </p> 
+<hr>
 
 - 🔭 I’m currently working on [Text-To-Image-Generator](https://github.com/AvishakeAdhikary/Text-To-Image-Generator) 
 - 🌱 I’m currently learning **Large Language Models & Integration of LLMs** 
@@ -21,8 +25,9 @@
 - 📝 I regularly write articles on [https://avhishek.blogspot.com/](https://avhishek.blogspot.com/) 
 - ⚡ Fun fact **Everyone I know is either getting married or pregnant. I'm just getting more awesome.** 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<hr>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <a href="https://codepen.io/avishakeadhikary" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="avishakeadhikary" height="30" width="40" />
   </a>
@@ -66,8 +71,9 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="avishakeadhikary" height="30" width="40" />
   </a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<hr>
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
   </a>
@@ -258,23 +264,21 @@
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" />
   </a>
 </p>
-<h3 align="left">Support:</h3>
-<p>
+<hr>
+<h3 align="center">Support:</h3>
+<p align="center">
   <a href="https://www.buymeacoffee.com/avishake69">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="avishake69" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="avishake69" />
   </a>
   <a href="https://ko-fi.com/avishakeadhikary">
-    <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="avishakeadhikary" />
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="avishakeadhikary" />
   </a>
 </p>
-<br>
-<br>
 <hr>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avishakeadhikary&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="avishakeadhikary" />
-</p>
-<p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=avishakeadhikary&show_icons=true&locale=en&theme=merko" alt="avishakeadhikary" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avishakeadhikary&theme=onedark" alt="avishakeadhikary" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=avishakeadhikary&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="avishakeadhikary" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=avishakeadhikary&show_icons=true&locale=en&theme=merko" alt="avishakeadhikary" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avishakeadhikary&theme=onedark" alt="avishakeadhikary" />
 </p>
