@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Avishake Adhikary</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-<img align="right" alt="coding" width="300" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif">
+<img align="right" alt="coding" width="250" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=avishakeadhikary&label=Profile%20views&color=0e75b6&style=flat" alt="avishakeadhikary" />
 </p>
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=avishakeadhikary" alt="avishakeadhikary" />
+    <img src="https://github-profile-trophy.vercel.app/?username=avishakeadhikary" alt="avishakeadhikary"/>
   </a>
 </p>
 <p align="left">
@@ -265,10 +265,10 @@
 <br>
 <hr>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avishakeadhikary&show_icons=true&locale=en&layout=compact" alt="avishakeadhikary" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avishakeadhikary&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="avishakeadhikary" />
 </p>
-<p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=avishakeadhikary&show_icons=true&locale=en" alt="avishakeadhikary" />
+<p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=avishakeadhikary&show_icons=true&locale=en&theme=merko" alt="avishakeadhikary" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avishakeadhikary&" alt="avishakeadhikary" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avishakeadhikary&theme=onedark" alt="avishakeadhikary" />
 </p>
