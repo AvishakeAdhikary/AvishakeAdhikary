@@ -25,7 +25,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://twitter.com/avishake007" target="blank">
+  <a href="https://twitter.com/Avhishek007" target="blank">
     <img src="https://img.shields.io/twitter/follow/avishake007?logo=twitter&style=for-the-badge" alt="avishake007" />
   </a>
 </p> 
