@@ -6,7 +6,18 @@
   <img alt="coding" width="400" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif">
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=avishakeadhikary&label=Profile%20views&color=0e75b6&style=flat" alt="avishakeadhikary" />
+  <a href="https://www.youtube.com/c/avishakeadhikary?sub_confirmation=1">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCyrsEA1N5eD68A554dIK17A?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630" />
+  </a>
+  <a href="https://www.youtube.com/c/avishakeadhikary">
+    <img alt="youtube views" title="YouTube Views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCyrsEA1N5eD68A554dIK17A?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600" />
+  </a>
+  <a href="https://github.com/AvishakeAdhikary?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/AvishakeAdhikary?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" />
+  </a>
+  <a href="https://github.com/AvishakeAdhikary?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AvishakeAdhikary?color=55960c&style=for-the-badge&labelColor=488207&logo=star" />
+  </a>
 </p>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
