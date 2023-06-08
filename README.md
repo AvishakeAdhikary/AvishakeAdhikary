@@ -53,7 +53,7 @@
   <a href="https://linkedin.com/in/avishakeadhikary" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avishakeadhikary" height="30" width="40" />
   </a>
-  <a href="https://stackoverflow.com/users/avishake-adhikary" target="blank">
+  <a href="https://stackoverflow.com/users/10955679/avishake-adhikary" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="avishake-adhikary" height="30" width="40" />
   </a>
   <a href="https://codesandbox.com/avishake_adhikary" target="blank">
