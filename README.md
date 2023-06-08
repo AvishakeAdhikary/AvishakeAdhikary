@@ -6,10 +6,10 @@
   <img alt="coding" width="400" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif">
 </p>
 <p align="center">
-  <a href="https://www.youtube.com/c/avishakeadhikary?sub_confirmation=1">
+  <a href="https://www.youtube.com/@avishakeadhikary?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCyrsEA1N5eD68A554dIK17A?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630" />
   </a>
-  <a href="https://www.youtube.com/c/avishakeadhikary">
+  <a href="https://www.youtube.com/@avishakeadhikary">
     <img alt="youtube views" title="YouTube Views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCyrsEA1N5eD68A554dIK17A?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600" />
   </a>
   <a href="https://github.com/AvishakeAdhikary?tab=followers">
