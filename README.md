@@ -299,7 +299,12 @@
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Valorant | MM Gameplay | Livestream](https://ytcards.demolab.com/?id=27McOlmAVqU&title=Valorant+%7C+MM+Gameplay+%7C+Livestream&lang=en&timestamp=1713482710&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Valorant | MM Gameplay | Livestream")](https://www.youtube.com/watch?v=27McOlmAVqU)
+[![Valorant | MM Gameplay | Livestream](https://ytcards.demolab.com/?id=eWry1XPW4lM&title=Valorant+%7C+MM+Gameplay+%7C+Livestream&lang=en&timestamp=1713454610&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Valorant | MM Gameplay | Livestream")](https://www.youtube.com/watch?v=eWry1XPW4lM)
+[![Dying Light Enhanced Edition | Story Mode Gameplay | Livestream](https://ytcards.demolab.com/?id=Jt6dizkCrDU&title=Dying+Light+Enhanced+Edition+%7C+Story+Mode+Gameplay+%7C+Livestream&lang=en&timestamp=1710732091&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Dying Light Enhanced Edition | Story Mode Gameplay | Livestream")](https://www.youtube.com/watch?v=Jt6dizkCrDU)
+[![LEGO® Batman™ The Videogame | Story Mode Gameplay | Livestream](https://ytcards.demolab.com/?id=Mjl4EKbGcN4&title=LEGO%C2%AE+Batman%E2%84%A2+The+Videogame+%7C+Story+Mode+Gameplay+%7C+Livestream&lang=en&timestamp=1710387073&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "LEGO® Batman™ The Videogame | Story Mode Gameplay | Livestream")](https://www.youtube.com/watch?v=Mjl4EKbGcN4)
+[![Pacific Drive | Story Mode Gameplay | Livestream](https://ytcards.demolab.com/?id=HylcMZRaukQ&title=Pacific+Drive+%7C+Story+Mode+Gameplay+%7C+Livestream&lang=en&timestamp=1710303123&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Pacific Drive | Story Mode Gameplay | Livestream")](https://www.youtube.com/watch?v=HylcMZRaukQ)
+[![Lies of P | Story Mode Gameplay | Livestream](https://ytcards.demolab.com/?id=FTGb4Yzan64&title=Lies+of+P+%7C+Story+Mode+Gameplay+%7C+Livestream&lang=en&timestamp=1709785335&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Lies of P | Story Mode Gameplay | Livestream")](https://www.youtube.com/watch?v=FTGb4Yzan64)
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@avishakeadhikary?sub_confirmation=1)
