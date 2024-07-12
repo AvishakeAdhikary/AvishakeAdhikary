@@ -1,7 +1,7 @@
 ![Github Banner](media/images/Github%20Banner.gif)
 
 <h1 align="center">Hi 👋, I'm Avishake Adhikary</h1>
-<h3 align="center">A passionate Full-Stack developer from India</h3>
+<h3 align="center">A passionate <strong>Machine Learning Engineer & Full-Stack developer</strong> from India</h3>
 <p align="center">
   <img alt="coding" width="400" src="media/images/programmer.gif">
 </p>
