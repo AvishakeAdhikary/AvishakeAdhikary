@@ -1,5 +1,5 @@
 <video autoplay loop muted playsinline>
-  <source src="media/videos/Github Banner.mp4" type="video/mp4">
+  <source src="media/videos/Github_Banner.mp4" type="video/mp4">
 </video>
 
 <h1 align="center">Hi 👋, I'm Avishake Adhikary</h1>
