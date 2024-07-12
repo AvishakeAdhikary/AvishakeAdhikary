@@ -1,6 +1,4 @@
-<video autoplay loop muted playsinline>
-  <source src="media/videos/Github_Banner.mp4" type="video/mp4">
-</video>
+![GitHub-Banner](media/images/Github%20Banner.gif)
 
 <h1 align="center">Hi 👋, I'm Avishake Adhikary</h1>
 <h3 align="center">A passionate <strong>Machine Learning Engineer & Full-Stack developer</strong> from India</h3>
