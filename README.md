@@ -1,9 +1,9 @@
-![Github Banner](https://github.com/AvishakeAdhikary/AvishakeAdhikary/assets/32614982/1c6eff4c-f429-4981-a5a9-e01a91d51dd4)
+![Github Banner](media/images/Github%20Banner.gif)
 
 <h1 align="center">Hi 👋, I'm Avishake Adhikary</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 <p align="center">
-  <img alt="coding" width="400" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif">
+  <img alt="coding" width="400" src="media/images/programmer.gif">
 </p>
 <p align="center">
   <a href="https://www.youtube.com/@avishakeadhikary?sub_confirmation=1">
@@ -25,8 +25,8 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://twitter.com/Avhishek007" target="blank">
-    <img src="https://img.shields.io/twitter/follow/Avhishek007?logo=twitter&style=for-the-badge" alt="Avhishek007" />
+  <a href="https://x.com/Avhishek007" target="blank">
+    <img src="https://img.shields.io/twitter/follow/Avhishek007?logo=x&style=for-the-badge" alt="Avhishek007" />
   </a>
 </p> 
 <hr>
@@ -34,7 +34,7 @@
 - 🔭 I’m currently working on [Text-To-Image-Generator](https://github.com/AvishakeAdhikary/Text-To-Image-Generator) 
 - 🌱 I’m currently learning **Large Language Models & Integration of LLMs** 
 - 👯 I’m looking to collaborate on [Python-Code-Generator](https://github.com/AvishakeAdhikary/Python-Code-Generator) 
-- 👨‍💻 All of my projects are available at [https://hj8d5.csb.app/](https://hj8d5.csb.app/) 
+- 👨‍💻 All of my projects are available at [https://avishakeadhikary.github.io/](https://avishakeadhikary.github.io/) 
 - 📝 I regularly write articles on [https://avhishek.blogspot.com/](https://avhishek.blogspot.com/) 
 - ⚡ Fun fact **Everyone I know is either getting married or pregnant. I'm just getting more awesome.** 
 
