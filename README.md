@@ -49,6 +49,9 @@ I build things at the intersection of **Machine Learning** and **full-stack web 
 Research notes on machine learning, AI systems, and the math that makes them work.
 
 <!-- BLOG-POST-LIST:START -->
+- [Attention from Scratch: Building the Transformer Step by Step](https://avishakeadhikary.github.io/blog/posts/transformer-architecture/)
+- [Five PyTorch Patterns Every ML Engineer Needs](https://avishakeadhikary.github.io/blog/posts/pytorch-patterns/)
+- [Why I&#39;m Writing About Machine Learning](https://avishakeadhikary.github.io/blog/posts/hello-world/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
