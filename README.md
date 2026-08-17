@@ -163,7 +163,7 @@ Research notes on machine learning, AI systems, and the math that makes them wor
   <img src="https://github-stats-extended.vercel.app/api?username=avishakeadhikary&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=avishakeadhikary&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
+  <img src="profile/streak.svg" alt="GitHub Streak" />
 </p>
 
 <br>
