@@ -4,7 +4,9 @@
 
 # Hi 👋, I'm Avishake Adhikary
 
-### Machine Learning Engineer & Full-Stack Developer from India
+<a href="https://github.com/AvishakeAdhikary">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=650&height=50&lines=Machine+Learning+Engineer;Full-Stack+Developer;LLM+Enthusiast;Content+Creator" alt="Typing SVG" />
+</a>
 
 <img src="media/images/programmer.gif" alt="Coding" width="360" />
 
@@ -26,10 +28,6 @@
   </a>
 </p>
 
-<a href="https://github.com/AvishakeAdhikary">
-  <img src="https://trophy.ryglcloud.net/?username=avishakeadhikary&theme=tokyonight&no-frame=true&row=1&column=7" alt="Avishake Adhikary's GitHub trophies" />
-</a>
-
 </div>
 
 <br>
@@ -47,6 +45,10 @@ I build things at the intersection of **Machine Learning** and **full-stack web 
 <br>
 
 ## 🧰 Tech Stack
+
+<details>
+<summary>Click to expand — languages, ML/data, web, mobile, cloud & tools</summary>
+<br>
 
 **Languages**
 
@@ -130,6 +132,8 @@ I build things at the intersection of **Machine Learning** and **full-stack web 
   <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
 </p>
 
+</details>
+
 <br>
 
 ## 📊 GitHub Stats
@@ -142,6 +146,18 @@ I build things at the intersection of **Machine Learning** and **full-stack web 
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=avishakeadhikary&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<br>
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AvishakeAdhikary/AvishakeAdhikary/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AvishakeAdhikary/AvishakeAdhikary/output/github-contribution-grid-snake.svg" />
+    <img alt="A snake eating through my GitHub contribution graph" src="https://raw.githubusercontent.com/AvishakeAdhikary/AvishakeAdhikary/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
 </p>
 
 <br>
@@ -200,7 +216,10 @@ I build things at the intersection of **Machine Learning** and **full-stack web 
 
 ## 🎮 When I'm Not Shipping Code
 
-I also record gameplay walkthroughs and post them on YouTube — here's what's fresh:
+I also record gameplay walkthroughs and post them on YouTube.
+
+<details>
+<summary>Click to see what's fresh on the channel</summary>
 
 <div align="center">
 
@@ -220,6 +239,8 @@ I also record gameplay walkthroughs and post them on YouTube — here's what's f
     <img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white" alt="Subscribe" />
   </a>
 </p>
+
+</details>
 
 <br>
 
