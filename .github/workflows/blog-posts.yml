@@ -1,0 +1,22 @@
+name: Latest Blog Post Workflow
+
+on:
+  schedule:
+    # Runs once a day at 00:00 UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://avishakeadhikary.github.io/blog/feed.xml"
+          max_post_count: 5
+          commit_message: "docs(readme): Update latest blog posts"

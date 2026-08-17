@@ -39,8 +39,23 @@ I build things at the intersection of **Machine Learning** and **full-stack web 
 - 🌱 Currently exploring **Large Language Models** and how to wire them into real applications
 - 📌 See what I'm building on my **[pinned repositories](https://github.com/AvishakeAdhikary?tab=repositories&sort=stargazers)** or my **[portfolio](https://avishakeadhikary.github.io/)**
 - 👯 Open to collaborating on ML tooling and full-stack side projects — reach out if something sounds interesting
-- 📝 I write about what I learn on **[my blog](https://avhishek.blogspot.com/)**
+- 📝 I write about what I learn on **[monolog](https://avishakeadhikary.github.io/blog/)**, my ML research blog
 - ⚡ Fun fact: **everyone I know is either getting married or pregnant. I'm just getting more awesome.**
+
+<br>
+
+## 📝 Latest From My Blog
+
+Research notes on machine learning, AI systems, and the math that makes them work.
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<p align="center">
+  <a href="https://avishakeadhikary.github.io/blog/">
+    <img src="https://img.shields.io/badge/Read_More_on_monolog-000000?style=for-the-badge&logo=rss&logoColor=white" alt="Read more" />
+  </a>
+</p>
 
 <br>
 
@@ -196,7 +211,7 @@ I build things at the intersection of **Machine Learning** and **full-stack web 
 <p align="center">
   <a href="https://instagram.com/legen_daddy.exe" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://fb.com/avhishek.adhikary" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://avhishek.blogspot.com/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" /></a>
+  <a href="https://avishakeadhikary.github.io/blog/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/monolog-000000?style=for-the-badge&logo=rss&logoColor=white" /></a>
 </p>
 
 <br>
